@@ -37,7 +37,7 @@ const App = () =>{
 
         },[pathname]);
     
-        
+        console.log("asad")
     
     
     return(
