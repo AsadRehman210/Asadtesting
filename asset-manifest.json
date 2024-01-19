@@ -1,18 +1,49 @@
 {
   "files": {
     "main.css": "/Asadtesting/static/css/main.9201d455.css",
-    "main.js": "/Asadtesting/static/js/main.2004ce14.js",
+    "main.js": "/Asadtesting/static/js/main.70fb020c.js",
     "static/media/video.mp4": "/Asadtesting/static/media/video.9c47e9c17d330bf0c0a6.mp4",
+    "static/media/sugarcane.webp": "/Asadtesting/static/media/sugarcane.24a5b780610986adec83.webp",
+    "static/media/rice.webp": "/Asadtesting/static/media/rice.75586cb50549ed998abf.webp",
+    "static/media/wheat.webp": "/Asadtesting/static/media/wheat.6d14114dcc35efea73b9.webp",
     "static/media/slider.webp": "/Asadtesting/static/media/slider.34ebc342f2874f68e1ed.webp",
+    "static/media/Al-Asr.webp": "/Asadtesting/static/media/Al-Asr.3bfa85654ea4df872e94.webp",
+    "static/media/potato.webp": "/Asadtesting/static/media/potato.e06f143a8bd93853f827.webp",
+    "static/media/Image our commitment.webp": "/Asadtesting/static/media/Image our commitment.0c585a65ea03c9e22caf.webp",
+    "static/media/Image Our Assets.webp": "/Asadtesting/static/media/Image Our Assets.8ab3bf397bb035da6ca8.webp",
+    "static/media/Image our strength.webp": "/Asadtesting/static/media/Image our strength.73fa7c6db064add274a6.webp",
+    "static/media/maize.webp": "/Asadtesting/static/media/maize.52ae869dc04030465289.webp",
+    "static/media/about.webp": "/Asadtesting/static/media/about.b98db532f73753e119eb.webp",
+    "static/media/Image our expert.webp": "/Asadtesting/static/media/Image our expert.02364364a9d941e7b784.webp",
     "static/media/Rectangle.webp": "/Asadtesting/static/media/Rectangle.ff72666eddcaa4e5ed74.webp",
     "static/media/video.webp": "/Asadtesting/static/media/video.8e8b877218f9f13bef50.webp",
+    "static/media/news3.webp": "/Asadtesting/static/media/news3.cc2e73939eb8c7312c08.webp",
+    "static/media/cotton.webp": "/Asadtesting/static/media/cotton.d1fee179359b7a152ebf.webp",
+    "static/media/news2.webp": "/Asadtesting/static/media/news2.6127044171216842a76e.webp",
     "static/media/banner.webp": "/Asadtesting/static/media/banner.631a52166e9854cd44f7.webp",
+    "static/media/news1.webp": "/Asadtesting/static/media/news1.cb55da36c46d63ee1adf.webp",
+    "static/media/fungi2.webp": "/Asadtesting/static/media/fungi2.a00c40d1ae688e5e9295.webp",
+    "static/media/NPK.webp": "/Asadtesting/static/media/NPK.a3077427c5f5e90898de.webp",
+    "static/media/fungi3.webp": "/Asadtesting/static/media/fungi3.3a46c8e4a72bb7c8c856.webp",
+    "static/media/col.webp": "/Asadtesting/static/media/col.98f7653c905c20037ae4.webp",
+    "static/media/M-7.webp": "/Asadtesting/static/media/M-7.fd7c7fdd6c46eb354c25.webp",
+    "static/media/salphar.webp": "/Asadtesting/static/media/salphar.abb356e0052f951d3648.webp",
+    "static/media/fungi1.webp": "/Asadtesting/static/media/fungi1.1ef95ef45ec4aba33c59.webp",
+    "static/media/defeat.webp": "/Asadtesting/static/media/defeat.cff74c27d9cde58dea92.webp",
+    "static/media/pivot.webp": "/Asadtesting/static/media/pivot.de38a9cdc53d33a8c140.webp",
+    "static/media/believe1.webp": "/Asadtesting/static/media/believe1.abb1ca41c952e255dd3a.webp",
+    "static/media/believe2.webp": "/Asadtesting/static/media/believe2.2ba0632308bb5bec8ead.webp",
+    "static/media/believe3.webp": "/Asadtesting/static/media/believe3.81c8b6d0adf12f032b5a.webp",
     "index.html": "/Asadtesting/index.html",
+    "static/media/mission3.webp": "/Asadtesting/static/media/mission3.da6ba7d57d7712aa2172.webp",
+    "static/media/mission2.webp": "/Asadtesting/static/media/mission2.092cc2311e199dc15e14.webp",
+    "static/media/mission4.webp": "/Asadtesting/static/media/mission4.fcb89094b1527238e46d.webp",
+    "static/media/mission1.webp": "/Asadtesting/static/media/mission1.ea4f34123adb6265636f.webp",
     "main.9201d455.css.map": "/Asadtesting/static/css/main.9201d455.css.map",
-    "main.2004ce14.js.map": "/Asadtesting/static/js/main.2004ce14.js.map"
+    "main.70fb020c.js.map": "/Asadtesting/static/js/main.70fb020c.js.map"
   },
   "entrypoints": [
     "static/css/main.9201d455.css",
-    "static/js/main.2004ce14.js"
+    "static/js/main.70fb020c.js"
   ]
 }
