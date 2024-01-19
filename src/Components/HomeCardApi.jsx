@@ -1,7 +1,11 @@
+import fungi1 from "../Images/fungi1.webp";
+import fungi2 from "../Images/fungi2.webp";
+import fungi3 from "../Images/fungi3.webp"
+
 const HomeCardApi = [
     {
         id:1,
-        imgsrc: "Images/fungi1.webp",
+        imgsrc: fungi1,
         heading: "Fungicides",
         para : "Fungicides can prevent and control all kind of diseases on crops.",
         alt: "fungi1",
@@ -9,7 +13,7 @@ const HomeCardApi = [
     },
     {
         id:2,
-        imgsrc: "Images/fungi2.webp",
+        imgsrc: fungi2,
         heading: "Fungicides",
         para : "Fungicides can prevent and control all kind of diseases on crops.",
         alt: "fungi2",
@@ -17,7 +21,7 @@ const HomeCardApi = [
     },
     {
         id:3,
-        imgsrc: "Images/fungi3.webp",
+        imgsrc: fungi3,
         heading: "Fungicides",
         para : "Fungicides can prevent and control all kind of diseases on crops.",
         alt: "fungi3",

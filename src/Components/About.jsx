@@ -3,6 +3,7 @@ import MainCom from "./MainCom";
 import SubTextBox from "./SubTextBox";
 import Submission from "./Submission";
 import SubmissApi from "./SubmissApi";
+import about from "../Images/about.webp"
 
 
 const About = () =>{
@@ -19,7 +20,7 @@ const About = () =>{
         At Al Asr Enterprises, we acknowledge and respect the incredible potential of agriculture in nurturing and sustaining our planet. We take pride in empowering farmers and growers with cutting-edge technology and optimal practices, driving a flourishing agricultural economy.<br/><br/>
         We appreciate you for choosing Al Asr Enterprises. We eagerly anticipate the opportunity to work with you and aid you in attaining your aspirations.
         </>}
-        imgsrc="Images/about.webp"
+        imgsrc= {about}
         alt="Al-Asr"
         bg = "#FFF"
         tOrder = "1"

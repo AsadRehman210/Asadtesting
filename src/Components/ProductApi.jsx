@@ -1,7 +1,13 @@
+import defeat from "../Images/defeat.webp";
+import pivot from "../Images/pivot.webp"
+import M7 from "../Images/M-7.webp"
+import NPK from "../Images/NPK.webp"
+import sulphur from "../Images/salphar.webp";
+import col from "../Images/col.webp"
 const ProductApi = [
     {
         id:1,
-        imgsrc: "Images/defeat.webp",
+        imgsrc: defeat,
         heading: "Defeat",
         para : "Defeat can prevent and control all kind of diseases on crops.",
         aos: "zoom-in-up",
@@ -9,7 +15,7 @@ const ProductApi = [
     },
     {
         id:2,
-        imgsrc: "Images/pivot.webp",
+        imgsrc: pivot,
         heading: "Pivot",
         para : "Pivot can prevent and control all kind of diseases on crops.",
         aos: "zoom-in-down",
@@ -17,7 +23,7 @@ const ProductApi = [
     },
     {
         id:3,
-        imgsrc: "Images/M-7.webp",
+        imgsrc: M7,
         heading: "M-7",
         para : "M-7 can prevent and control all kind of diseases on crops.",
         aos: "zoom-in-up",
@@ -26,7 +32,7 @@ const ProductApi = [
     },
     {
         id:4,
-        imgsrc: "Images/NPK.webp",
+        imgsrc: NPK,
         heading: "NPK",
         para : "NPK can prevent and control all kind of diseases on crops.",
         aos: "zoom-in-down",
@@ -34,7 +40,7 @@ const ProductApi = [
     },
     {
         id:5,
-        imgsrc: "Images/salphar.webp",
+        imgsrc:sulphur,
         heading: "Salfar",
         para : "Salfar can prevent and control all kind of diseases on crops.",
         aos: "zoom-in",
@@ -42,7 +48,7 @@ const ProductApi = [
     },
     {
         id:6,
-        imgsrc: "Images/col.webp",
+        imgsrc:col,
         heading: "Clodinafop",
         para : "Clodinafop prevent and control all kind of diseases on crops.",
         aos: "zoom-in-down",
