@@ -37,7 +37,7 @@ const App = () =>{
 
         },[pathname]);
     
-        console.log("asad")
+        
     
     
     return(
@@ -47,7 +47,7 @@ const App = () =>{
            <Navbar />
            
            <Routes>
-                  <Route exact path="/" element={<Home />}  />
+                  <Route path="/Asadtesting" element={<Home />}  />
                   <Route path="/product" element={<Products />} />
                   <Route path="/crop" element={<Crops />} />
                   <Route path="/career" element={<Career />} />
