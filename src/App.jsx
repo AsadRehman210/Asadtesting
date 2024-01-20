@@ -17,7 +17,6 @@ import Topbutton from "./Components/Topbutton.jsx";
 import Management from "./Components/Management.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
-// import "aos/dist/aos.js";
 
 
 
@@ -55,7 +54,7 @@ const App = () =>{
                   <Route path="/about" element={<About />} />
                   <Route path="/contact" element={<Contact />} />
                   <Route path="/management" element={<Management />} />
-                  <Route path="*" element={<Navigate to="/" />} />
+                  <Route element={<Navigate to="/" />} />
                   
      
            </Routes>
