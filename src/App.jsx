@@ -4,7 +4,7 @@ import "bootstrap/dist/js/bootstrap.min.js";
 import "./CSS/Index.css";
 import Header from "./Components/Header";
 import Navbar from "./Components/Navbar";
-import { Route, Routes, useLocation} from "react-router-dom";
+import { Navigate, Route, Routes, useLocation} from "react-router-dom";
 import Home from "./Components/Home";
 import Footer from "./Components/Footer";
 import Products from "./Components/Products";
@@ -47,7 +47,7 @@ const App = () =>{
            <Navbar />
            
            <Routes>
-                  <Route path="/Asadtesting" element={<Home />}  />
+                  <Route path="/" element={<Home />}  />
                   <Route path="/product" element={<Products />} />
                   <Route path="/crop" element={<Crops />} />
                   <Route path="/career" element={<Career />} />
@@ -55,6 +55,7 @@ const App = () =>{
                   <Route path="/about" element={<About />} />
                   <Route path="/contact" element={<Contact />} />
                   <Route path="/management" element={<Management />} />
+                  <Route path="*" element={<Navigate to="/" />} />
                   
      
            </Routes>
